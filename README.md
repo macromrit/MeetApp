@@ -52,4 +52,41 @@ This unique combination ensures that users receive the best possible matches, wi
 
 ---
 
-## 🛠️ **Graph-DB Used**
+## 🛠️ **Xcode IDE and SwiftUI**
+![dev img](dev-env.png)
+
+---
+
+## 🛠️ **FireBase Realtime DB and Storage Bucket**
+![firebase](meetapp-realtimedb.png)
+
+---
+
+## 🛠️ **Neo4j Graph Structured-DB**
+![neo4j](graph-db.png)
+
+---
+
+## 🛠️ **PineCone Vector-DB**
+![pinecone](pinecone-dash.png)
+
+
+---
+
+## 🛠️ **FastAPI - Backend API Rollouts**
+![FastAPIs](fastapi-rollouts.png)
+
+---
+
+## 🛠️ **SerperAI - Realtime Location Crawler**
+![serperai](serperai-dashboard.png)
+
+---
+
+## 🛠️ **Warp - An AI Powered Terminal was used in development**
+![warp](warp-ui.png)
+
+
+
+
+
