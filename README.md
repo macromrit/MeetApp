@@ -36,7 +36,7 @@ MeetApp is built using cutting-edge technologies for performance, scalability, a
 - **[Pinecone](https://www.pinecone.io/)**: For vector database services, enabling efficient search and similarity comparisons.
 - **[Firebase](https://firebase.google.com/)**: Manages authentication, real-time database features, and hosting.
 - **[Gemini-1.5-pro](https://example.com)**: An advanced AI model that assists in the recommendation system.
-
+- **[Neo4k][https://neo4j.com]**: A Graph Based DB for storing entries and nodes and relationships.
 ---
 
 ## 📈 **How Matching Works**
@@ -52,12 +52,4 @@ This unique combination ensures that users receive the best possible matches, wi
 
 ---
 
-## 🛠️ **Getting Started**
-
-To run the project locally, follow these steps:
-
-### **Backend (FastAPI)**:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/MeetApp.git
-   cd MeetApp/backend
+## 🛠️ **Graph-DB Used**
