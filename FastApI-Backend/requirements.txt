@@ -1,0 +1,33 @@
+# Server Managment and Backend
+
+fastapi # ==0.103.1   # FastAPI framework for building APIs
+uvicorn # ==0.23.1    # ASGI server for FastAPI
+pydantic # ==2.3.0    # Data validation and settings management
+# gunicorn==20.1.0   # Optional: Production-grade WSGI HTTP server
+aiofiles # ==23.2.1   # Optional: File handling for async routes
+# jinja2==3.1.2      # Optional: Template rendering (if using HTML templates)
+# sqlalchemy==2.1.1  # Optional: SQL database support with ORM
+# databases==0.6.0   # Optional: Database connection manager for async operations
+# alembic==1.11.3    # Optional: Database migrations with SQLAlchemy
+# httpx==0.24.1      # Optional: Async HTTP client for external API requests
+# python-multipart==0.0.6  # Optional: Form data handling (file uploads)
+# pyjwt==2.8.0       # Optional: JWT for authentication
+passlib # ==1.7z   # Optional: Password hashing for authentication
+typing
+python-multipart
+
+# Testing libraries
+pytest # ==7.5.0      # Optional: Testing framework
+pytest-asyncio # ==0.21.0  # Optional: Support for testing async code
+
+# GenAI
+google-generativeai 
+python-dotenv
+Pillow
+tavily-python
+jinja2
+
+# storage
+pyrebase
+firebase-admin
+pinecone
